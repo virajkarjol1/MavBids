@@ -75,7 +75,4 @@ This will generate the WAR file in the  **Server/MavBids/target** folder, which 
 ## Authors
 
 * **Bhushan Yavagal** - [bhushanyavagal](https://github.com/bhushanyavagal) 
-* **Deepak Thipeswamy** - [deepakthipeswamy](https://github.com/deepakthipeswamy)
-* **Rajaraman Govindasamy** - [rajaramangovindasamy](https://github.com/rajaramangovindasamy)
-* **Sai Kumar Manakan** - [MSKOnline](https://github.com/mskonline)
 * **Vanisha Crasta** - [vanishacrasta](https://github.com/vanishacrasta)
