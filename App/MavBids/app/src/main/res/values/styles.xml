@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="MyActionBar" parent="android:Widget.Material.Light.ActionBar.Solid">
+        <item name="android:background"  tools:ignore="NewApi">#303F9F</item>
+        <item name="background">@color/colorPrimaryDark</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Material.Light.DarkActionBar">
+        <!-- Customize your theme here.
+        <item name="colorPrimary">@color/colorPrimary</item>
+
+        <item name="colorAccent">@color/colorAccent</item> -->
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:statusBarColor">#303F9F</item>
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+    </style>
+
+    <style name="AppThemeNoTitle" parent="AppTheme">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

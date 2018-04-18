@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MavBids</string>
+
+    <string name="title_activity_home_screen">MavBids</string>
+    <string name="title_activity_register">MavBids Register</string>
+    <string name="title_activity_server_connect">MavBids</string>
+    <string name="title_activity_post_advertisement">MavBids - Post Advertisement</string>
+
+    <string-array name="auction_array">
+        <item>Direct Buy</item>
+        <item>Bid</item>
+    </string-array>
+
+    <string-array name="category_array">
+        <item>General</item>
+        <item>Electronics</item>
+        <item>Furniture</item>
+        <item>Clothing</item>
+        <item>Books and Stationery</item>
+    </string-array>
+    
+    <string name="title_activity_dashboard">MavBids - Dashboard</string>
+    <string name="title_activity_my_orders">MavBids - My Orders</string>
+    <string name="title_activity_my_reviews">MavBids - My Reviews</string>
+    <string name="title_activity_my_advertisments">MavBids - My Advertisments</string>
+    <string name="title_activity_advertisement">MavBids - Ad</string>
+    <string name="title_activity_manage">MavBids - Manage</string>
+    <string name="title_activity_manage_users">MavBids - Manage Users</string>
+    <string name="title_activity_manage_categories">MavBids - Manage Categories</string>
+    <string name="title_activity_manage_advertisements">MavBids - Manage Ads</string>
+</resources>
